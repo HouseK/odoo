@@ -28,7 +28,7 @@ msgid ""
 "    Welcome to the To-do app!"
 msgstr ""
 "&amp;#128075; <br/>\n"
-"    Welkom bij de To-so app!"
+"    Welkom bij de To-do app!"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
